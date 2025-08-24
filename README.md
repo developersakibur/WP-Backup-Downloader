@@ -27,7 +27,7 @@ url = "https://raw.githubusercontent.com/developersakibur/wp-backup-downloader/m
 %run temp_script.py
 ```
 3. Run the cell.
-4. Then paste the .wpress backup file URL and boom:
+4. Then paste the .wpress backup file URL and **Click Enter**:
 
 ## Notes
  - Ensure sufficient free space in Google Drive.
