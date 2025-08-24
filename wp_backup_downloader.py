@@ -1,5 +1,5 @@
 # Install requests
-!pip install requests --quiet
+pip install requests --quiet
 
 import os, time, requests, shutil, sys, io, contextlib
 from google.colab import drive, files
